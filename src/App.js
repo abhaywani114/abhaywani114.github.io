@@ -6,6 +6,7 @@ import Interests from "./components/Interests"
 import SocialMedia from "./components/SocialMedia"
 import Projects from "./components/Projects"
 import Skills from "./components/Skills"
+import Media from './components/Media'
 
 export default function App() {
 	return (
@@ -15,6 +16,7 @@ export default function App() {
 			<About/>
 			<Skills/>
 			<Projects/>
+			<Media/>
 			<Interests/>
 			<SocialMedia/>
 		</main>

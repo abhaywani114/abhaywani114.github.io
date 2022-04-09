@@ -180,6 +180,14 @@ a {
 	line-height: 15px;
 	color: #DCDCDC;
 }
+.project-list > li 
+{
+	margin: 3px auto;
+}
+.project-list > li > a{
+	color: #F3BF99;
+}
+
 .child-project > p {
 	padding-bottom: 10px;
 }

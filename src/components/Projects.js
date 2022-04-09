@@ -13,7 +13,9 @@ export default function Projects() {
 				<li>ABC Arena</li>
 				<li>Samsung Central</li>
 				<li>Osmanli Weather App (VueJs)</li>
-				<li><a href="https://abhaywani114.github.io/airbnb-clone-react/">Airbnb mini-Clone (React)</a></li>
+				<li><a target="_blank" href="https://abhaywani114.github.io/airbnb-clone-react/">Airbnb mini-Clone (React)</a></li>
+				<li><a target="_blank" href="https://abhaywani114.github.io/osmanli-youtube-video-category-Manager/">Youtube Video Category Manager</a></li>
+				<li><a target="_blank" href="https://abhaywani114.github.io/osmanli-youtube-playlist-generator/">Osmanli Youtube Playlist Generator</a></li>
 			</ul>
 		</div>
 	)
