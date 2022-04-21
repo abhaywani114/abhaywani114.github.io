@@ -1,5 +1,5 @@
 import React from "react"
-import Abhay from "../images/abhay.jpg"
+import Abhay from "../images/abhay.JPG"
 
 export default function Image() {
 	return (

@@ -16,6 +16,9 @@ export default function Projects() {
 				<li><a target="_blank" href="https://abhaywani114.github.io/airbnb-clone-react/">Airbnb mini-Clone (React)</a></li>
 				<li><a target="_blank" href="https://abhaywani114.github.io/osmanli-youtube-video-category-Manager/">Youtube Video Category Manager</a></li>
 				<li><a target="_blank" href="https://abhaywani114.github.io/osmanli-youtube-playlist-generator/">Osmanli Youtube Playlist Generator</a></li>
+				<li><a target="_blank" href="https://abhaywani114.github.io/osmanli_dergah">Osmanli Dergahi</a></li>
+				<li><a target="_blank" href="https://abhaywani114.github.io/ssm-meme-generator/">SSM MemeGenerator (ReactJS)</a></li>
+				<li><a target="_blank" href="https://abhaywani114.github.io/tenzies/">Tenzies Game (ReactJS)</a></li>
 			</ul>
 		</div>
 	)

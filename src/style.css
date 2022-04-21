@@ -28,6 +28,8 @@ a {
 	width: 320px;
 	object-fit:cover;
 	border-radius: 10px 10px 0px 0px;
+    object-position: 50% 10%;
+    filter: grayscale(80%);
 }
 
 
@@ -35,7 +37,6 @@ a {
 .info-main-div {
 	background-color:#1A1B21;
 	text-align:center;
-	height: 175px;
 }
 
 .info-main-div > h1 {
@@ -92,6 +93,7 @@ a {
 	align-items:center;
 	margin:auto;
 	margin-top: 15px;
+	cursor: pointer;
 }
 
 

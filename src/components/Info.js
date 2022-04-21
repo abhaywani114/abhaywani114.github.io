@@ -9,6 +9,11 @@ export default function Info() {
 			<a href="mailto:abhaywani114@gmail.com" target="_blank">
 				<button className="info-mail-btn"><img src={Mail_Icon}/><span>Email</span></button>
 			</a>
+			<a href="https://www.upwork.com/workwith/abrarajaz" target="_blank">
+				<button className="info-mail-btn"><span>Hire Me!</span></button>
+			</a>
+
+			<br/>
 		</div>
 	);
 }
