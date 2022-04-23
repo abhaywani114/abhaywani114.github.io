@@ -19,6 +19,7 @@ export default function Projects() {
 				<li><a target="_blank" href="https://abhaywani114.github.io/osmanli_dergah">Osmanli Dergahi</a></li>
 				<li><a target="_blank" href="https://abhaywani114.github.io/ssm-meme-generator/">SSM MemeGenerator (ReactJS)</a></li>
 				<li><a target="_blank" href="https://abhaywani114.github.io/tenzies/">Tenzies Game (ReactJS)</a></li>
+				<li><a target="_blank" href="https://abhaywani114.github.io/quizzical-otdb/"> Quizzical (OTDB, ReactJS)</a></li>
 			</ul>
 		</div>
 	)
