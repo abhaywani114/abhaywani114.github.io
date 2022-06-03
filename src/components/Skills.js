@@ -9,6 +9,7 @@ export default function Skills() {
 				<li>Html/CSS</li>
 				<li>VueJS</li>
 				<li>ReactJS</li>
+				<li>NodeJS</li>
 				<li>PHP/Laravel</li>
 				<li>JS/JQuery</li>
 				<li>SQL</li>

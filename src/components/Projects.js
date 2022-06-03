@@ -20,6 +20,9 @@ export default function Projects() {
 				<li><a target="_blank" href="https://abhaywani114.github.io/ssm-meme-generator/">SSM MemeGenerator (ReactJS)</a></li>
 				<li><a target="_blank" href="https://abhaywani114.github.io/tenzies/">Tenzies Game (ReactJS)</a></li>
 				<li><a target="_blank" href="https://abhaywani114.github.io/quizzical-otdb/"> Quizzical (OTDB, ReactJS)</a></li>
+				<li><a target="_blank" href="https://jobapi-007.herokuapp.com/api-docs"> Job API (NodeJS, demo)</a></li>
+				<li><a target="_blank" href="https://abhaywani114.github.io/power-admin-demo-reactjs/">Power Admin Dashboard (ReactJS, demo)</a></li>
+				<li><a target="_blank" href="https://my-contact-project.herokuapp.com/">Contacts (ReactJS/NodeJS/MongoDB, demo)</a></li>
 			</ul>
 		</div>
 	)
